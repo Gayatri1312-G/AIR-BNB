@@ -23,10 +23,10 @@ This project demonstrates responsive design, clean UI, and the integration of ex
 ---
 
 ## 📂 Project Structure
-AIR-BNB-main/
-│── project.html # Main HTML file
-│── project.css # Stylesheet
-│── README.md # Documentation
+AIR-BNB-main/ <br/>
+│── project.html     <br/>
+│── project.css      <br/>
+│── README.md        <br/>
 
 
 
